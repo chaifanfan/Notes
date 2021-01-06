@@ -3,7 +3,7 @@ Record solutions that fix daily issues.
 
 ### Format
 Date dd/mm/yyyy
-##### Title
+##### This is a title
 
 **Bad example:**
 
