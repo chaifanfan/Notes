@@ -1,7 +1,3 @@
-# Daily Workaround
-Record solutions that fix daily issues.
-
-### Format
 Date 01/04/2021
 ##### How to set state with data from react-apollo Query?
 
