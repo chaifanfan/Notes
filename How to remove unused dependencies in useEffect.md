@@ -1,4 +1,4 @@
-Date 01/04/2021
+Date 01/05/2021
 ##### How to remove unused dependencies in useEffect?
 
 **Bad example:**
@@ -31,5 +31,5 @@ Date 01/04/2021
 
 **Reference:**  
 http://www.thewashingtonhua.com/blog/2019/05/27/rethink-in-hooks
-https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
-
+https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook  
+https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/
